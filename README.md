@@ -3,16 +3,15 @@
 A Laravel-based web application designed to manage dental clinic operations efficiently. The system helps manage patients, doctors, appointments, medical records, prescriptions, and administrative tasks through a user-friendly dashboard.
 
 ## Features
-- Patient Management
-- Doctor Management
-- Appointment Scheduling
-- Medical Records Management
-- Prescription Management
-- User Authentication
-- Admin Dashboard
-- Database Management
-- Responsive User Interface
-
+- 👨‍⚕️ Doctor Management
+- 👤 Patient Management
+- 📅 Appointment Scheduling
+- 💊 Prescription Management
+- 📋 Medical Records
+- 🔐 User Authentication
+- 📊 Admin Dashboard
+- 📱 Responsive Design
+  
 ## Technologies Used
 - PHP
 - Laravel 12
@@ -58,6 +57,38 @@ Skills:
 - JavaScript
 - HTML/CSS
 - Git/GitHub
+
+# 📸 Project Screenshots
+
+## Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+## Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+
+## Doctor Dashboard
+
+![Doctor Dashboard](screenshots/doctor_dashboard.png)
+
+
+## Patient Dashboard
+
+![Patient Dashboard](screenshots/patient_dashboard.png)
+
+
+## Doctors Management
+
+![Doctors](screenshots/doctors.png)
+
+
+## Services Management
+
+![Services](screenshots/services.png)
 
 ```bash
 git clone https://github.com/abdull-quraishi/dental-clinic-management-system.git
